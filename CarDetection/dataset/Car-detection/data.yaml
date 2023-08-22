@@ -1,0 +1,12 @@
+names:
+- Car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: car-detection-xpuvx
+  url: https://universe.roboflow.com/mit-ivmqi/car-detection-xpuvx/dataset/3
+  version: 3
+  workspace: mit-ivmqi
+test: /content/drive/MyDrive/yolov5/Car-detection-3/test/images
+train: /content/drive/MyDrive/yolov5/Car-detection-3/train/images
+val: /content/drive/MyDrive/yolov5/Car-detection-3/valid/images
